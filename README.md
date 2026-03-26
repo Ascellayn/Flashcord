@@ -1,4 +1,16 @@
-# Flashcord has reached "End of Life" Status.
+<h1 align="center">
+  Flashcord is now being replaced by <a href="https://github.com/Ascellayn/TSN_Misono">TSN Misono</a>
+</h1>
+<p align="center">
+  Misono will function drastically differently and look slightly different compared to Flashcord but its main ideology and style will persist.
+</p>
+<p align="center">
+  Do note that Misono is currently under extremely heavy development and has basically only 0.1% of Flashcord's current feature set as of right now.
+</p>
+
+<br>
+
+## Flashcord has reached "End of Life" Status.
 Flashcord has been broken since forever and no one stepped in to fix/commit Flashcord and people keep assuming Flashcord works while it clearly doesn't and has been left in a broken state for a VERY LONG TIME. I've now decided to entirely kill off the Flashcord project so that people aren't left confused as why it stopped working. If someone is still willing to fix Flashcord in a meaningfull way then this repo will become active again. For now it will stay dead.
 
 <br>
