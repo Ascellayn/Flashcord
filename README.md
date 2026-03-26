@@ -1,6 +1,11 @@
-# Declaring Flashcord as a dead project
-Flashcord has now been archived, no one stepped in to fix/commit Flashcord and people keep assuming Flashcord works while it clearly doesn't and has been left in a broken state for a VERY LONG TIME. I've now decided to entirely kill off the Flashcord project so that people aren't left confused as why it stopped working. If someone is still willing to fix Flashcord in a meaningfull way then this repo will be unarchived. For now it will stay dead.
+# Flashcord has reached "End of Life" Status.
+Flashcord has been broken since forever and no one stepped in to fix/commit Flashcord and people keep assuming Flashcord works while it clearly doesn't and has been left in a broken state for a VERY LONG TIME. I've now decided to entirely kill off the Flashcord project so that people aren't left confused as why it stopped working. If someone is still willing to fix Flashcord in a meaningfull way then this repo will become active again. For now it will stay dead.
 
+<br>
+<br>
+<br>
+
+<h1 align="center">=== OLD README ===</h1>
 
 # Flashcord developement has ceased indefinitely
 This project is now maintained by the community and newer versions are now based off the last "Ceres" version.
